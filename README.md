@@ -1,2 +1,4 @@
 # Algorithms-and-Data-Structures
 In this repository I'm sharing codes that were part of Algorithms and Data Structures subject at my collage(Zagreb Faculty of Electrical Engineering and Computing).
+
+Building on the knowledge obtained in Introduction to Programming, basic data structures and algorithms are presented. Computational complexity of algorithms is introduced. Search methods are presented, followed by recursion. Algorithms for sorting are explained and illustrated. Dynamic data structures are introduced: singly and multiply linked lists. Basic data structures, stack and queue, are presented followed by hashing, binary trees, and heap. Heap sort illustrates priority queue application. Graph structure and the basic algorithms on graphs are introduced. The elementary string/text search algorithms are presented.
