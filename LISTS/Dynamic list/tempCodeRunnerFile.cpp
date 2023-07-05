@@ -1,0 +1,1 @@
+dinLista.addSorted(17);
